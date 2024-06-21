@@ -1,4 +1,4 @@
-# Covid-19 Data in Nigeria 
+# Covid-19 Data in Nigeria (Group Project)
 This project makes use of:
 - R
   
